@@ -7,7 +7,7 @@ import { Ionicons } from '@expo/vector-icons';
 
 import AppNavigator from './navigation/AppNavigator';
 
-// MiniShop OFFICIAL
+// MiniShop OFFICIAL HAVE NOT PULL
 
 export default function App(props) {
   const [isLoadingComplete, setLoadingComplete] = useState(false);
