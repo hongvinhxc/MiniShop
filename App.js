@@ -7,7 +7,7 @@ import { Ionicons } from '@expo/vector-icons';
 
 import AppNavigator from './navigation/AppNavigator';
 
-// MiniShop NON OFFICIAL
+// MiniShop OFFICIAL AFTER MERGE
 
 export default function App(props) {
   const [isLoadingComplete, setLoadingComplete] = useState(false);
